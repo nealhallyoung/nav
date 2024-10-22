@@ -40,4 +40,4 @@
 | frp              | https://github.com/nealhallyoung/frp              |
 | ddns-go          | https://github.com/nealhallyoung/ddns-go          |
 | tailscale        | https://github.com/nealhallyoung/tailscale        |
-
+| coredns          | https://github.com/nealhallyoung/coredns          |
